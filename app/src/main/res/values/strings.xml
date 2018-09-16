@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">carIndicate</string>
+    <string name="button_name">menuButton</string>
+    <string name="left_door">LEFT DOOR</string>
+    <string name="parking_button">PARKING</string>
+    <string name="right_door">RIGHT DOOR</string>
+    <string name="rightdoor_text">Opening right door</string>
+    <string name="back_button">BACK</string>
+    <string name="back">back</string>
+</resources>
